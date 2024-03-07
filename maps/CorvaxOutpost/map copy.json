@@ -1,0 +1,176 @@
+{
+    "Id": "CorvaxOutpost",
+    "Name": "Corvaxoutpost",
+    "Grids": [
+        {
+            "GridId": "1191",
+            "Offset": {
+                "X": 5000.0,
+                "Y": 5577.87625
+            },
+            "Tiled": false,
+            "Url": "CorvaxOutpost\\CorvaxOutpost-0.webp",
+            "Extent": {
+                "X1": 0.0,
+                "Y1": 0.0,
+                "X2": 4736.0,
+                "Y2": 4416.0
+            }
+        },
+        {
+            "GridId": "10358921",
+            "Offset": {
+                "X": 899.8349,
+                "Y": -149.8979
+            },
+            "Tiled": false,
+            "Url": "CorvaxOutpost\\CorvaxOutpost-1.webp",
+            "Extent": {
+                "X1": 0.0,
+                "Y1": 0.0,
+                "X2": 1152.0,
+                "Y2": 864.0
+            }
+        },
+        {
+            "GridId": "10359318",
+            "Offset": {
+                "X": -238.22958,
+                "Y": -236.65121
+            },
+            "Tiled": false,
+            "Url": "CorvaxOutpost\\CorvaxOutpost-2.webp",
+            "Extent": {
+                "X1": 0.0,
+                "Y1": 0.0,
+                "X2": 640.0,
+                "Y2": 704.0
+            }
+        },
+        {
+            "GridId": "10359715",
+            "Offset": {
+                "X": 225.42624,
+                "Y": 451.0138
+            },
+            "Tiled": false,
+            "Url": "CorvaxOutpost\\CorvaxOutpost-3.webp",
+            "Extent": {
+                "X1": 0.0,
+                "Y1": 0.0,
+                "X2": 768.0,
+                "Y2": 864.0
+            }
+        },
+        {
+            "GridId": "10360112",
+            "Offset": {
+                "X": -63.441345,
+                "Y": 1059.3624
+            },
+            "Tiled": false,
+            "Url": "CorvaxOutpost\\CorvaxOutpost-4.webp",
+            "Extent": {
+                "X1": 0.0,
+                "Y1": 0.0,
+                "X2": 608.0,
+                "Y2": 640.0
+            }
+        },
+        {
+            "GridId": "10360509",
+            "Offset": {
+                "X": 425.72974,
+                "Y": 688.19226
+            },
+            "Tiled": false,
+            "Url": "CorvaxOutpost\\CorvaxOutpost-5.webp",
+            "Extent": {
+                "X1": 0.0,
+                "Y1": 0.0,
+                "X2": 864.0,
+                "Y2": 800.0
+            }
+        },
+        {
+            "GridId": "10360906",
+            "Offset": {
+                "X": 512.5129,
+                "Y": 645.6431
+            },
+            "Tiled": false,
+            "Url": "CorvaxOutpost\\CorvaxOutpost-6.webp",
+            "Extent": {
+                "X1": 0.0,
+                "Y1": 0.0,
+                "X2": 256.0,
+                "Y2": 224.0
+            }
+        },
+        {
+            "GridId": "10361303",
+            "Offset": {
+                "X": 197.4205,
+                "Y": 395.98035
+            },
+            "Tiled": false,
+            "Url": "CorvaxOutpost\\CorvaxOutpost-7.webp",
+            "Extent": {
+                "X1": 0.0,
+                "Y1": 0.0,
+                "X2": 896.0,
+                "Y2": 576.0
+            }
+        }
+    ],
+    "Attributions": null,
+    "ParallaxLayers": [
+        {
+            "Scale": {
+                "X": 0.1,
+                "Y": 0.1
+            },
+            "Offset": {
+                "X": 0.0,
+                "Y": 0.0
+            },
+            "Static": false,
+            "MinScale": null,
+            "Source": {
+                "Url": "https://i.imgur.com/3YO8KRd.png",
+                "Extent": {
+                    "X1": 0.0,
+                    "Y1": 0.0,
+                    "X2": 6000.0,
+                    "Y2": 4000.0
+                }
+            },
+            "Layers": [
+                {
+                    "Url": "https://i.imgur.com/IannmmK.png",
+                    "Composition": "source-over",
+                    "ParallaxScale": {
+                        "X": 0.1,
+                        "Y": 0.1
+                    }
+                },
+                {
+                    "Url": "https://i.imgur.com/T3W6JsE.png",
+                    "Composition": "lighter",
+                    "ParallaxScale": {
+                        "X": 0.2,
+                        "Y": 0.2
+                    }
+                },
+                {
+                    "Url": "https://i.imgur.com/T3W6JsE.png",
+                    "Composition": "lighter",
+                    "ParallaxScale": {
+                        "X": 0.3,
+                        "Y": 0.3
+                    }
+                }
+            ]
+        }
+    ]
+}

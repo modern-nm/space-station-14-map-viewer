@@ -1,0 +1,288 @@
+{
+    "id": "CorvaxAvrite",
+    "name": "CorvaxAvrite",
+    "grids": [
+        {
+            "gridId": "1191",
+            "offset": {
+                "x": 645.80133,
+                "y": -497.47778
+            },
+            "tiled": false,
+            "url": "maps/CorvaxAvrite/CorvaxAvrite-0.webp",
+            "extent": {
+                "a": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "b": {
+                  "x": 6848.0,
+                  "y": 6112.0
+                }
+            }
+        },
+        {
+            "gridId": "1588",
+            "offset": {
+                "x": 596.6194,
+                "y": -525.0911
+            },
+            "tiled": false,
+            "url": "maps/CorvaxAvrite/CorvaxAvrite-1.webp",
+            "extent": {
+                "a": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "b": {
+                  "x": 160.0,
+                  "y": 384.0
+                }
+            }
+        },
+        {
+            "gridId": "1985",
+            "offset": {
+                "x": 84.01886,
+                "y": -283.47168
+            },
+            "tiled": false,
+            "url": "maps/CorvaxAvrite/CorvaxAvrite-2.webp",
+            "extent": {
+                "a": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "b": {
+                  "x": 960.0,
+                  "y": 1920.0
+                }
+            }
+        },
+        {
+            "gridId": "2382",
+            "offset": {
+                "x": 731.86395,
+                "y": -497.91217
+            },
+            "tiled": false,
+            "url": "maps/CorvaxAvrite/CorvaxAvrite-3.webp",
+            "extent": {
+                "a": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "b": {
+                  "x": 288.0,
+                  "y": 288.0
+                }
+            }
+        },
+        {
+            "gridId": "2779",
+            "offset": {
+                "x": 1140.5704,
+                "y": -688.3869
+            },
+            "tiled": false,
+            "url": "maps/CorvaxAvrite/CorvaxAvrite-4.webp",
+            "extent": {
+                "a": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "b": {
+                  "x": 1024.0,
+                  "y": 864.0
+                }
+            }
+        },
+        {
+            "gridId": "3176",
+            "offset": {
+                "x": 683.2091,
+                "y": -566.754
+            },
+            "tiled": false,
+            "url": "maps/CorvaxAvrite/CorvaxAvrite-5.webp",
+            "extent": {
+                "a": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "b": {
+                  "x": 224.0,
+                  "y": 320.0
+                }
+            }
+        },
+        {
+            "gridId": "3573",
+            "offset": {
+                "x": 1248.169,
+                "y": -1161.1703
+            },
+            "tiled": false,
+            "url": "maps/CorvaxAvrite/CorvaxAvrite-6.webp",
+            "extent": {
+                "a": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "b": {
+                  "x": 2272.0,
+                  "y": 1920.0
+                }
+            }
+        },
+        {
+            "gridId": "3970",
+            "offset": {
+                "x": 1234.456,
+                "y": -1119.7957
+            },
+            "tiled": false,
+            "url": "maps/CorvaxAvrite/CorvaxAvrite-7.webp",
+            "extent": {
+                "a": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "b": {
+                  "x": 192.0,
+                  "y": 192.0
+                }
+            }
+        },
+        {
+            "gridId": "4367",
+            "offset": {
+                "x": 351.85162,
+                "y": -681.4329
+            },
+            "tiled": false,
+            "url": "maps/CorvaxAvrite/CorvaxAvrite-8.webp",
+            "extent": {
+                "a": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "b": {
+                  "x": 544.0,
+                  "y": 608.0
+                }
+            }
+        },
+        {
+            "gridId": "4764",
+            "offset": {
+                "x": 589.35614,
+                "y": -550.8936
+            },
+            "tiled": false,
+            "url": "maps/CorvaxAvrite/CorvaxAvrite-9.webp",
+            "extent": {
+                "a": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "b": {
+                  "x": 480.0,
+                  "y": 448.0
+                }
+            }
+        },
+        {
+            "gridId": "5161",
+            "offset": {
+                "x": 596.6194,
+                "y": 34.676483
+            },
+            "tiled": false,
+            "url": "maps/CorvaxAvrite/CorvaxAvrite-10.webp",
+            "extent": {
+                "a": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "b": {
+                  "x": 768.0,
+                  "y": 608.0
+                }
+            }
+        },
+        {
+            "gridId": "5558",
+            "offset": {
+                "x": 599.85114,
+                "y": -1115.5184
+            },
+            "tiled": false,
+            "url": "maps/CorvaxAvrite/CorvaxAvrite-11.webp",
+            "extent": {
+                "a": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "b": {
+                  "x": 2496.0,
+                  "y": 2080.0
+                }
+            }
+        }
+    ],
+    "attributions": null,
+    "parallaxLayers": [
+        {
+            "scale": {
+                "x": 0.1,
+                "y": 0.1
+            },
+            "offset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "static": false,
+            "minScale": null,
+            "source": {
+                "url": "https://i.imgur.com/3YO8KRd.png",
+                "extent": {
+                    "a": {
+                      "x": 0.0,
+                      "y": 0.0
+                    },
+                    "b": {
+                      "x": 6000.0,
+                      "y": 4000.0
+                    }
+                }
+            },
+            "layers": [
+                {
+                    "url": "https://i.imgur.com/IannmmK.png",
+                    "composition": "source-over",
+                    "parallaxScale": {
+                        "x": 0.1,
+                        "y": 0.1
+                    }
+                },
+                {
+                    "url": "https://i.imgur.com/T3W6JsE.png",
+                    "composition": "lighter",
+                    "parallaxScale": {
+                        "x": 0.2,
+                        "y": 0.2
+                    }
+                },
+                {
+                    "url": "https://i.imgur.com/T3W6JsE.png",
+                    "composition": "lighter",
+                    "parallaxScale": {
+                        "x": 0.3,
+                        "y": 0.3
+                    }
+                }
+            ]
+        }
+    ]
+}

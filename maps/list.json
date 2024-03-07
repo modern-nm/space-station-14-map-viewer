@@ -1,0 +1,21 @@
+{
+	"maps": [
+		{"name": "ADTAtlas", "id": "ADTAtlas"},
+		{"name": "ADTBagel", "id": "ADTBagel"},
+		{"name": "ADTBox", "id": "ADTBox"},
+		{"name": "ADTCore", "id": "ADTCore"},
+		{"name": "ADTCluster", "id": "ADTCluster"},
+		{"name": "ADTFland", "id": "ADTFland"},
+		{"name": "ADTMeta", "id": "ADTMeta"},
+		{"name": "ADTOmega", "id": "ADTOmega"},
+		{"name": "ADTOrigin", "id": "ADTOrigin"},
+		{"name": "ADTPacked", "id": "ADTPacked"},
+		{"name": "ADTSaltern", "id": "ADTSaltern"},
+		{"name": "CorvaxAstra", "id": "CorvaxAstra"},
+		{"name": "CorvaxAvrite", "id": "CorvaxAvrite"},
+		{"name": "CorvaxDelta", "id": "CorvaxDelta"},
+		{"name": "CorvaxGelta", "id": "CorvaxGelta"},
+		{"name": "CorvaxOutpost", "id": "CorvaxOutpost"},
+		{"name": "CorvaxSilly", "id": "CorvaxSilly"}
+	]
+}

@@ -1,0 +1,71 @@
+{
+    "Id": "ADTAtlas",
+    "Name": "Adtatlas",
+    "Grids": [
+        {
+            "GridId": "1191",
+            "Offset": {
+                "X": 256.49298,
+                "Y": -556.6256
+            },
+            "Tiled": false,
+            "Url": "ADTAtlas\\ADTAtlas-0.webp",
+            "Extent": {
+                "X1": 0.0,
+                "Y1": 0.0,
+                "X2": 3424.0,
+                "Y2": 2048.0
+            }
+        }
+    ],
+    "Attributions": null,
+    "ParallaxLayers": [
+        {
+            "Scale": {
+                "X": 0.1,
+                "Y": 0.1
+            },
+            "Offset": {
+                "X": 0.0,
+                "Y": 0.0
+            },
+            "Static": false,
+            "MinScale": null,
+            "Source": {
+                "Url": "https://i.imgur.com/3YO8KRd.png",
+                "Extent": {
+                    "X1": 0.0,
+                    "Y1": 0.0,
+                    "X2": 6000.0,
+                    "Y2": 4000.0
+                }
+            },
+            "Layers": [
+                {
+                    "Url": "https://i.imgur.com/IannmmK.png",
+                    "Composition": "source-over",
+                    "ParallaxScale": {
+                        "X": 0.1,
+                        "Y": 0.1
+                    }
+                },
+                {
+                    "Url": "https://i.imgur.com/T3W6JsE.png",
+                    "Composition": "lighter",
+                    "ParallaxScale": {
+                        "X": 0.2,
+                        "Y": 0.2
+                    }
+                },
+                {
+                    "Url": "https://i.imgur.com/T3W6JsE.png",
+                    "Composition": "lighter",
+                    "ParallaxScale": {
+                        "X": 0.3,
+                        "Y": 0.3
+                    }
+                }
+            ]
+        }
+    ]
+}

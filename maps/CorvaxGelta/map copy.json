@@ -1,0 +1,146 @@
+{
+    "Id": "CorvaxGelta",
+    "Name": "Corvaxgelta",
+    "Grids": [
+        {
+            "GridId": "1191",
+            "Offset": {
+                "X": -21.576954,
+                "Y": 265.81046
+            },
+            "Tiled": false,
+            "Url": "CorvaxGelta\\CorvaxGelta-0.webp",
+            "Extent": {
+                "X1": 0.0,
+                "Y1": 0.0,
+                "X2": 7392.0,
+                "Y2": 6464.0
+            }
+        },
+        {
+            "GridId": "1588",
+            "Offset": {
+                "X": -47.530327,
+                "Y": 4.9570923
+            },
+            "Tiled": false,
+            "Url": "CorvaxGelta\\CorvaxGelta-1.webp",
+            "Extent": {
+                "X1": 0.0,
+                "Y1": 0.0,
+                "X2": 672.0,
+                "Y2": 1152.0
+            }
+        },
+        {
+            "GridId": "1985",
+            "Offset": {
+                "X": 64.78841,
+                "Y": 251.43306
+            },
+            "Tiled": false,
+            "Url": "CorvaxGelta\\CorvaxGelta-2.webp",
+            "Extent": {
+                "X1": 0.0,
+                "Y1": 0.0,
+                "X2": 224.0,
+                "Y2": 320.0
+            }
+        },
+        {
+            "GridId": "2382",
+            "Offset": {
+                "X": -218.81204,
+                "Y": 829.02954
+            },
+            "Tiled": false,
+            "Url": "CorvaxGelta\\CorvaxGelta-3.webp",
+            "Extent": {
+                "X1": 0.0,
+                "Y1": 0.0,
+                "X2": 1408.0,
+                "Y2": 1184.0
+            }
+        },
+        {
+            "GridId": "2779",
+            "Offset": {
+                "X": -150.11156,
+                "Y": -39.375793
+            },
+            "Tiled": false,
+            "Url": "CorvaxGelta\\CorvaxGelta-4.webp",
+            "Extent": {
+                "X1": 0.0,
+                "Y1": 0.0,
+                "X2": 1728.0,
+                "Y2": 1760.0
+            }
+        },
+        {
+            "GridId": "3176",
+            "Offset": {
+                "X": 73.70584,
+                "Y": 244.33568
+            },
+            "Tiled": false,
+            "Url": "CorvaxGelta\\CorvaxGelta-5.webp",
+            "Extent": {
+                "X1": 0.0,
+                "Y1": 0.0,
+                "X2": 224.0,
+                "Y2": 448.0
+            }
+        }
+    ],
+    "Attributions": null,
+    "ParallaxLayers": [
+        {
+            "Scale": {
+                "X": 0.1,
+                "Y": 0.1
+            },
+            "Offset": {
+                "X": 0.0,
+                "Y": 0.0
+            },
+            "Static": false,
+            "MinScale": null,
+            "Source": {
+                "Url": "https://i.imgur.com/3YO8KRd.png",
+                "Extent": {
+                    "X1": 0.0,
+                    "Y1": 0.0,
+                    "X2": 6000.0,
+                    "Y2": 4000.0
+                }
+            },
+            "Layers": [
+                {
+                    "Url": "https://i.imgur.com/IannmmK.png",
+                    "Composition": "source-over",
+                    "ParallaxScale": {
+                        "X": 0.1,
+                        "Y": 0.1
+                    }
+                },
+                {
+                    "Url": "https://i.imgur.com/T3W6JsE.png",
+                    "Composition": "lighter",
+                    "ParallaxScale": {
+                        "X": 0.2,
+                        "Y": 0.2
+                    }
+                },
+                {
+                    "Url": "https://i.imgur.com/T3W6JsE.png",
+                    "Composition": "lighter",
+                    "ParallaxScale": {
+                        "X": 0.3,
+                        "Y": 0.3
+                    }
+                }
+            ]
+        }
+    ]
+}

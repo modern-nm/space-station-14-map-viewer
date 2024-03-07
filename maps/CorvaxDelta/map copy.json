@@ -1,0 +1,116 @@
+{
+    "Id": "CorvaxDelta",
+    "Name": "Corvaxdelta",
+    "Grids": [
+        {
+            "GridId": "1191",
+            "Offset": {
+                "X": -173.37903,
+                "Y": -960.33984
+            },
+            "Tiled": false,
+            "Url": "CorvaxDelta\\CorvaxDelta-0.webp",
+            "Extent": {
+                "X1": 0.0,
+                "Y1": 0.0,
+                "X2": 7520.0,
+                "Y2": 6464.0
+            }
+        },
+        {
+            "GridId": "1588",
+            "Offset": {
+                "X": -486.41608,
+                "Y": -852.3715
+            },
+            "Tiled": false,
+            "Url": "CorvaxDelta\\CorvaxDelta-1.webp",
+            "Extent": {
+                "X1": 0.0,
+                "Y1": 0.0,
+                "X2": 32.0,
+                "Y2": 32.0
+            }
+        },
+        {
+            "GridId": "1985",
+            "Offset": {
+                "X": -181.97493,
+                "Y": -1047.4718
+            },
+            "Tiled": false,
+            "Url": "CorvaxDelta\\CorvaxDelta-2.webp",
+            "Extent": {
+                "X1": 0.0,
+                "Y1": 0.0,
+                "X2": 224.0,
+                "Y2": 320.0
+            }
+        },
+        {
+            "GridId": "2382",
+            "Offset": {
+                "X": -486.41608,
+                "Y": -852.3715
+            },
+            "Tiled": false,
+            "Url": "CorvaxDelta\\CorvaxDelta-3.webp",
+            "Extent": {
+                "X1": 0.0,
+                "Y1": 0.0,
+                "X2": 1728.0,
+                "Y2": 1952.0
+            }
+        }
+    ],
+    "Attributions": null,
+    "ParallaxLayers": [
+        {
+            "Scale": {
+                "X": 0.1,
+                "Y": 0.1
+            },
+            "Offset": {
+                "X": 0.0,
+                "Y": 0.0
+            },
+            "Static": false,
+            "MinScale": null,
+            "Source": {
+                "Url": "https://i.imgur.com/3YO8KRd.png",
+                "Extent": {
+                    "X1": 0.0,
+                    "Y1": 0.0,
+                    "X2": 6000.0,
+                    "Y2": 4000.0
+                }
+            },
+            "Layers": [
+                {
+                    "Url": "https://i.imgur.com/IannmmK.png",
+                    "Composition": "source-over",
+                    "ParallaxScale": {
+                        "X": 0.1,
+                        "Y": 0.1
+                    }
+                },
+                {
+                    "Url": "https://i.imgur.com/T3W6JsE.png",
+                    "Composition": "lighter",
+                    "ParallaxScale": {
+                        "X": 0.2,
+                        "Y": 0.2
+                    }
+                },
+                {
+                    "Url": "https://i.imgur.com/T3W6JsE.png",
+                    "Composition": "lighter",
+                    "ParallaxScale": {
+                        "X": 0.3,
+                        "Y": 0.3
+                    }
+                }
+            ]
+        }
+    ]
+}

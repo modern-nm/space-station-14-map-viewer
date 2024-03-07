@@ -1,0 +1,98 @@
+{
+    "id": "ADTCore",
+    "name": "ADTCore",
+    "grids": [
+        {
+            "gridId": "794",
+            "offset": {
+                "x": 357.15863,
+                "y": 243.02644
+            },
+            "tiled": false,
+            "url": "maps/ADTCore/ADTCore-0.webp",
+            "extent": {
+                "a": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "b": {
+                  "x": 5312.0,
+                  "y": 4096.0
+                }
+            }
+        },
+        {
+            "gridId": "1588",
+            "offset": {
+                "x": 350.6567,
+                "y": 164.71327
+            },
+            "tiled": false,
+            "url": "maps/ADTCore/ADTCore-1.webp",
+            "extent": {
+                "a": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "b": {
+                  "x": 384.0,
+                  "y": 480.0
+                }
+            }
+        }
+    ],
+    "attributions": null,
+    "parallaxLayers": [
+        {
+            "scale": {
+                "x": 0.1,
+                "y": 0.1
+            },
+            "offset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "static": false,
+            "minScale": null,
+            "source": {
+                "url": "https://i.imgur.com/3YO8KRd.png",
+                "extent": {
+                    "a": {
+                      "x": 0.0,
+                      "y": 0.0
+                    },
+                    "b": {
+                      "x": 6000.0,
+                      "y": 4000.0
+                    }
+                }
+            },
+            "layers": [
+                {
+                    "url": "https://i.imgur.com/IannmmK.png",
+                    "composition": "source-over",
+                    "parallaxScale": {
+                        "x": 0.1,
+                        "y": 0.1
+                    }
+                },
+                {
+                    "url": "https://i.imgur.com/T3W6JsE.png",
+                    "composition": "lighter",
+                    "parallaxScale": {
+                        "x": 0.2,
+                        "y": 0.2
+                    }
+                },
+                {
+                    "url": "https://i.imgur.com/T3W6JsE.png",
+                    "composition": "lighter",
+                    "parallaxScale": {
+                        "x": 0.3,
+                        "y": 0.3
+                    }
+                }
+            ]
+        }
+    ]
+}
